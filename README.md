@@ -141,7 +141,7 @@ Estoy ampliando mis conocimientos con asignaturas avanzadas como:
 ## 📬 Contacto
 
 Si quieres colaborar, proponer un proyecto o saber más sobre mí:  
-**👉 _contratacionesenriarna@gmail.com**
+**👉 contratacionesenriarna@gmail.com**
 
 ---
 
