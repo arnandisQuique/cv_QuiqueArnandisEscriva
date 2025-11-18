@@ -141,9 +141,9 @@ Estoy ampliando mis conocimientos con asignaturas avanzadas como:
 ## 📬 Contacto
 
 Si quieres colaborar, proponer un proyecto o saber más sobre mí:  
-**👉 _Aquí puedes añadir tu email, LinkedIn o página personal_**
+**👉 _contratacionesenriarna@gmail.com**
 
 ---
 
 ### ⭐ Gracias por visitar mi perfil  
-Estoy constantemente aprendiendo y mejorando, así que pronto verás muchos más proyectos relacionados con **IA, Machine Learning y Big Data**.
+Estoy constantemente aprendiendo y mejorando, así que pronto verás muchos más proyectos relacionados con **IA, Machine Learning y Big Data, Páginas Web ...**.
