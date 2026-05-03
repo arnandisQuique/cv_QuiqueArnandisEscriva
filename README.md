@@ -1,149 +1,96 @@
-# 👋 ¡Hola! Soy un Desarrollador de Aplicaciones Multiplataforma apasionado por la IA y el Big Data
+# 👋 ¡Hola! Soy Quique Arnandis Escrivà | Desarrollador Multiplataforma, IA & Big Data
 
-Bienvenido/a a mi perfil de GitHub.  
-Soy un desarrollador formado en el **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**, con especial interés en la **Inteligencia Artificial**, el **Aprendizaje Automático**, el **Big Data** y el **desarrollo web moderno**.
+> *"Transformando datos en decisiones y código en soluciones inteligentes."*
 
----
+Bienvenido/a a mi perfil de GitHub. Soy un **Desarrollador de Aplicaciones Multiplataforma (DAM)** apasionado por la tecnología y actualmente inmerso en la especialización de **Inteligencia Artificial y Big Data**. 
 
-## 🚀 Sobre mí
-
-- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-  Capacitado para desarrollar aplicaciones completas tanto en entornos móviles como de escritorio y web.
-
-- 💡 **Experto en diseño de páginas web**  
-  Gran capacidad creativa para concebir ideas, estructuras visuales y experiencias centradas en el usuario.
-
-- 🧩 **Dominio del desarrollo sin Backend tradicional**  
-  Experiencia creando proyectos funcionales con stacks basados en Frontend, consumo de API, servicios externos y modelos Headless.
-
-- 🔎 **Habilidades avanzadas en SEO y arquitectura web**  
-  Capacidad para optimizar sitios para motores de búsqueda, mejorar la estructura semántica y aplicar técnicas modernas de indexación y rendimiento.
-
-- 🤖 **Actualmente formándome en Inteligencia Artificial y Big Data**  
-  Ampliando mis conocimientos en:
-  - Modelos de IA  
-  - Sistemas de Aprendizaje Automático  
-  - Programación de Inteligencia Artificial  
-  - Big Data aplicado  
-  - Sistemas de Big Data  
+Mi perfil combina una sólida base en el desarrollo de software tradicional (frontend, backend, escritorio y móvil) con las tecnologías más innovadoras de análisis de datos, aprendizaje automático y automatización en la nube. Me considero un profesional organizado, proactivo y con una gran capacidad de aprendizaje autónomo, siempre buscando aplicar la tecnología para resolver problemas del mundo real.
 
 ---
 
-## 🧠 Competencias adquiridas en DAM
+## 🚀 Sobre mí y mi visión tecnológica
 
-### 🖥️ **Programación**
-- Programación en **Java** y **Python**
-- Programación orientada a objetos (POO)
-- Manejo de excepciones, estructuras avanzadas, colecciones y patrones básicos
-- Desarrollo de APIs y servicios
-- Gestión de dependencias y modularidad
+Mi viaje en la tecnología comenzó con el desarrollo multiplataforma, donde aprendí a estructurar sistemas, diseñar bases de datos y crear aplicaciones centradas en el usuario. Sin embargo, mi curiosidad me llevó al mundo de los datos y la IA. Hoy en día, mi enfoque se divide en tres grandes pilares:
 
-### 🗄️ **Bases de Datos**
-- SQL (MySQL, PostgreSQL)
-- Diseño de bases de datos relacionales
-- Normalización y optimización de consultas
-- Conexión a BD desde apps Java/Python
-
-### 📱 **Desarrollo de Aplicaciones**
-- Aplicaciones de escritorio con Java  
-- Aplicaciones móviles Android básicas  
-- Uso de XML y componentes gráficos
-
-### 🌐 **Desarrollo Web (Frontend/Backend ligero)**
-- HTML5, CSS3, SASS, JavaScript  
-- Bootstrap, Tailwind, UX/UI  
-- Integración con APIs REST  
-- Páginas web sin backend tradicional  
-- Despliegues en hosting estático o mediante plataformas cloud
-
-### 🛠️ **Entornos, herramientas y sistemas**
-- Git & GitHub (control de versiones y trabajo en equipo)
-- Docker y virtualización ligera
-- Sistemas operativos (Windows, Linux)
-- Automatizaciones básicas
-
-### 🔐 **Seguridad informática**
-- Seguridad en el desarrollo
-- Buenas prácticas en gestión de contraseñas, accesos y datos
-- Conceptos básicos de cifrado y vulnerabilidades
+1. **Inteligencia Artificial y Datos:** No solo programo aplicaciones, sino que las doto de inteligencia. He trabajado con **Redes Neuronales Convolucionales (CNN)** para visión artificial y técnicas de **Procesamiento de Lenguaje Natural (PLN)** para el análisis de texto. Además, creo Agentes de IA capaces de tomar decisiones y automatizar tareas.
+2. **Ingeniería y Visualización de Datos:** Entiendo que los datos son el activo más valioso. Utilizo herramientas como **Power BI** para transformar datos crudos en dashboards interactivos e inteligencia de negocios (Business Intelligence), aportando valor estratégico.
+3. **Arquitectura Cloud y Automatización:** El software moderno vive en la nube. Poseo experiencia trabajando con **AWS (Amazon Web Services)** para el despliegue de soluciones escalables y utilizo plataformas como **n8n** para orquestar automatizaciones de procesos complejos, conectando diferentes APIs y servicios.
 
 ---
 
-## 🤖 Formación actual en IA y Big Data
+## 💼 Experiencia Práctica y Proyectos Destacados
 
-Estoy ampliando mis conocimientos con asignaturas avanzadas como:
+A lo largo de mi trayectoria, he llevado a cabo proyectos reales que demuestran mi capacidad para gestionar el ciclo de vida completo del desarrollo:
 
-### 🧬 *Modelos de Inteligencia Artificial*
-- Representación del conocimiento  
-- Sistemas basados en reglas  
-- Razonamiento lógico y heurístico  
+### 🛠️ Aplicación de Control de Calidad (Full-Stack)
+Desarrollo de una solución web integral para la gestión y control de calidad empresarial.
+* **Tecnologías:** Framework **Django** (Python), HTML5, CSS3, JavaScript.
+* **Características:** Sistema de roles con modo de administrador único, integración de generación y conversión de reportes a PDF, control estricto de registros de usuarios y sistema de copias de seguridad manuales para garantizar la integridad de los datos.
 
-### 🤖 *Sistemas de Aprendizaje Automático*
-- Aprendizaje supervisado y no supervisado  
-- Regresión, clasificación, clustering  
-- Métricas, validación y rendimiento  
+### 🤖 Ecosistemas de IA y Automatización
+* **Agentes de IA:** Desarrollo y configuración de agentes inteligentes orientados a objetivos específicos.
+* **Automatización con n8n:** Creación de flujos de trabajo automatizados para conectar aplicaciones, procesar datos en segundo plano y optimizar el tiempo de desarrollo y ejecución de tareas repetitivas.
+* **Deep Learning & PLN:** Proyectos prácticos implementando modelos de clasificación de imágenes (CNN) y análisis de lenguaje natural.
 
-### 🧠 *Programación de IA*
-- Implementación de algoritmos inteligentes  
-- Búsquedas, optimización, heurísticas  
-- Prácticas aplicadas en Python  
-
-### 📊 *Big Data aplicado*
-- Conceptos de volumen, variedad y velocidad  
-- Procesos ETL  
-- Integración de datos a gran escala  
-- Introducción a ecosistemas Hadoop/Spark  
-
-### 💾 *Sistemas de Big Data*
-- Arquitecturas distribuidas  
-- Bases de datos NoSQL  
-- Pipelines y procesamiento en tiempo real  
+### 🌐 Desarrollo Web Moderno y SEO
+* **Diseño UX/UI:** Creación de prototipos de alta fidelidad y flujos de usuario utilizando **Figma**.
+* **Desarrollo Frontend:** Construcción de sitios web informativos, landings orientadas a conversión (Ads) y portales con sistemas de registro y bases de datos.
+* **Optimización SEO y WPO:** Aplicación de estrategias avanzadas de arquitectura web, semántica, mejora de rendimiento (Web Performance Optimization) y técnicas de indexación para dominar los motores de búsqueda.
 
 ---
 
-## 🧰 Tecnologías que manejo
+## 🧰 Stack Tecnológico Completo
 
-### Lenguajes  
-✔ Python  
-✔ Java  
-✔ JavaScript  
-✔ SQL  
-✔ HTML5 / CSS3 / SASS  
+### 🧠 Inteligencia Artificial & Big Data
+* **Machine Learning & Deep Learning:** Algoritmos supervisados/no supervisados, Redes Neuronales Convolucionales (CNN), Regresión, Clasificación, Clustering.
+* **Procesamiento de Lenguaje (PLN):** Extracción de información, análisis de sentimiento, modelos de lenguaje.
+* **Sistemas de Big Data:** Conocimiento en procesos ETL, bases de datos NoSQL, ecosistemas Hadoop/Spark, y pipelines de datos.
+* **Visualización:** Power BI.
 
-### Frameworks y herramientas  
-✔ Git y GitHub  
-✔ Bootstrap / Tailwind  
-✔ Docker  
-✔ VSCode / IntelliJ / NetBeans  
-✔ APIs REST  
-✔ Linux  
+### 💻 Desarrollo Backend & Arquitectura
+* **Lenguajes:** Python (Especialidad en datos y backend), Java (POO avanzado).
+* **Frameworks:** Django.
+* **Bases de Datos:** SQL (MySQL, PostgreSQL), optimización de consultas, diseño relacional y normalización.
+* **APIs:** Desarrollo y consumo de APIs REST, modelos Headless.
 
-### SEO / Web  
-✔ Optimización técnica (WPO)  
-✔ Arquitectura web escalable  
-✔ Estrategias de indexación  
-✔ Diseño visual y estructura UX  
+### 🎨 Desarrollo Frontend & Diseño
+* **Lenguajes:** JavaScript, HTML5, CSS3, SASS.
+* **Frameworks de estilos:** Bootstrap, Tailwind CSS.
+* **Herramientas de Diseño:** Figma (Wireframing, Prototipado, UX/UI).
 
----
-
-## 📂 Lo que puedo aportar
-
-- Desarrollo de aplicaciones completas en Java o Python  
-- Creación de páginas web modernas, rápidas y optimizadas  
-- Diseño visual atractivo orientado a conversión  
-- Ideas y soluciones creativas para proyectos digitales  
-- Integración de técnicas de IA y análisis de datos  
-- Trabajo limpio, ordenado y escalable  
-- Capacidad de aprendizaje constante y autónomo  
+### ☁️ Cloud, DevOps & Herramientas
+* **Cloud Computing:** AWS (Amazon Web Services).
+* **Automatización:** n8n, scripts de Python.
+* **Control de versiones y Entornos:** Git, GitHub, Docker (virtualización ligera), Linux, Windows.
+* **IDE's:** VSCode, IntelliJ, NetBeans.
 
 ---
 
-## 📬 Contacto
+## 🎓 Formación Académica
 
-Si quieres colaborar, proponer un proyecto o saber más sobre mí:  
-**👉 contratacionesenriarna@gmail.com**
+* 🧠 **Especialización en IA y Big Data** *(IES Eduardo Primo Marqués)*: Sistemas de aprendizaje automático, programación de IA aplicada, arquitecturas distribuidas y representación del conocimiento.
+* 💻 **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** *(Centro Educativo El Xuquer, 2023-2025)*: Programación robusta en Java/Python, diseño de bases de datos, seguridad informática, despliegues y desarrollo web/móvil.
 
 ---
 
-### ⭐ Gracias por visitar mi perfil  
-Estoy constantemente aprendiendo y mejorando, así que pronto verás muchos más proyectos relacionados con **IA, Machine Learning y Big Data, Páginas Web ...**.
+## 📂 Mi Valor Añadido (Soft Skills)
+
+* **Visión Integral:** Al entender tanto el Frontend como los modelos matemáticos de la IA, puedo construir productos que no solo funcionan por detrás, sino que son accesibles e intuitivos para el usuario final.
+* **Resolución de problemas:** Me apasiona encontrar el "cómo". Si un proceso es repetitivo, busco cómo automatizarlo. Si hay datos sueltos, busco cómo visualizarlos en Power BI para darles sentido.
+* **Aprendizaje Continuo:** El sector tecnológico no se detiene, y yo tampoco. Dedico gran parte de mi tiempo al aprendizaje autónomo, probando nuevas librerías, explorando arquitecturas cloud en AWS y testeando nuevos modelos de IA.
+
+---
+
+## 📬 Hablemos
+
+Estoy abierto a nuevas oportunidades, colaboraciones en proyectos de código abierto o simplemente a debatir sobre el futuro de la IA y el desarrollo de software.
+
+* ✉️ **Email principal:** [arnandisquique@gmail.com](mailto:arnandisquique@gmail.com)
+* ✉️ **Email secundario (Contrataciones):** [contratacionesenriarna@gmail.com](mailto:contratacionesenriarna@gmail.com)
+* 📱 **Teléfono:** 620 894 618
+* 💼 **LinkedIn:** www.linkedin.com/in/enrique-arnandis-escrivà-a4794b298
+
+---
+
+### ⭐ Gracias por pasarte por mi perfil
+*Siéntete libre de explorar mis repositorios a continuación. ¡El código abierto hace un mundo mejor!*
